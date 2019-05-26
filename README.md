@@ -1,5 +1,5 @@
 # vaalirahoitus-harkka
-Python coding exercise
+Python coding exercise.
 
 Program requires Python 3 and pipenv installed
 (you can skip pipenv if you have Pandas libraries locally installed)
